@@ -1,0 +1,9 @@
+[submodule "ruby-spi"]
+	path = ruby-spi
+	url = https://github.com/m1ari/ruby-spi.git
+[submodule "chunky_png"]
+	path = chunky_png
+	url = https://github.com/wvanbergen/chunky_png.git
+[submodule "mini_gpio"]
+	path = mini_gpio
+	url = https://github.com/tenderlove/mini_gpio.git

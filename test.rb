@@ -1,4 +1,7 @@
-$LOAD_PATH.unshift File.expand_path("../lib", __FILE__)
+$LOAD_PATH << "chunky_png/lib"
+$LOAD_PATH << "mini_gpio/lib"
+$LOAD_PATH << "ruby-spi/lib"
+$LOAD_PATH << "lib"
 
 require "piink/display"
 require "piink/png"
